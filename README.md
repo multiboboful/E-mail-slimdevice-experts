@@ -1,2 +1,1 @@
-# E-mail-slimdevice-experts
-e-mail marketing
+E-mail campaign for company that sells device that helps to reduce weight.
